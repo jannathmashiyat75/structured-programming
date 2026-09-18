@@ -1,25 +1,74 @@
+C Programming
+A beginner-friendly repository for learning and practicing C programming.
+The examples in this repository follow the concepts covered in the W3Schools C tutorial, starting from the basics and progressing up to loops.
 
+📚 Topics Covered
+The repository currently covers:
 
-C Syntax
+Introduction to C
 
-C outputs
+Basic C syntax
 
-C variables
+Comments
 
-C datatypes
+Variables
 
-C type conversion
+Constants
 
-C booleans
+Data types
 
-C constants
+Format specifiers
 
-C comments
+Characters and strings
 
-C operators
+User input
 
-C switch
+Operators
 
-C Loops
+Arithmetic operators
 
-Here I practiced all these problems to build a portfolio constantly!!!!!
+Assignment operators
+
+Comparison operators
+
+Logical operators
+
+Bitwise operators
+
+Conditional statements
+
+if
+
+else
+
+else if
+
+switch
+
+Loops
+
+while
+
+do...while
+
+for
+
+Nested loops
+
+📁 Repository Structure
+The source files are organized according to the concepts being learned. Each program demonstrates a specific C programming concept and can be compiled and executed independently.
+🎯 Purpose
+This repository is mainly for learning, practicing, and revising C programming fundamentals.
+
+🚧 Progress
+ C basics
+
+ Variables and data types
+
+ Operators
+
+ User input
+
+ Conditional statements
+
+ Loops
