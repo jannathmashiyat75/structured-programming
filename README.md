@@ -1,46 +1,41 @@
 # Structural Programming — C
 
 Author:Kazi Mashiyat Jannth
-
 Year: First Year 
+# C Programming Practice
 
-## ⌨️ About
+## 📖 About
 
-This repository contains my coursework, assignments, and practice programs for Structural Programming.
+This repository is a collection of my C programming practices, exercises, and experiments as I learn the fundamentals of C programming through W3Schools.
 
-I am using this repository to learn the fundamentals of C programming, improve my problem-solving skills, and keep track of my progress throughout the course.
+Here, I practice different programming concepts by writing and testing simple C programs. The purpose of this repository is to understand the basics of programming, improve my logical thinking, and develop better problem-solving skills through regular practice.
 
-## 🧩 Topics Covered
+The programs in this repository represent my learning progress, starting from basic syntax and gradually moving towards concepts such as arrays, functions, recursion, pointers, and structures.
 
-* Variables and data types
-* Input and output
-* Conditional statements
-* Loops and nested loops
-* Functions
-* Arrays and strings
-* Pointers
-* Structures
-* Recursion
-* Basic problem-solving
+## 📚 Topics
 
-## 📂 Repository Contents
+Throughout this learning journey, I am exploring different concepts of C programming, including:
 
-The repository includes programs and exercises related to different topics covered in the course, along with assignments and practice problems.
+- C syntax and program structure
+- Variables and data types
+- Input and output
+- Operators and expressions
+- Conditional statements
+- Loops
+- Arrays
+- Strings
+- Functions
+- Recursion
+- Pointers
+- Structures
+- Basic problem-solving
 
-## 🌱 What I Am Learning
+The repository will continue to grow as I learn and practice new concepts and solve more programming exercises.
 
-This course is helping me improve my:
+## 🎯 My Goal
 
-* Logical thinking
-* Programming fundamentals
-* Debugging skills
-* Ability to write structured code
+My goal is to build a strong foundation in C programming and develop the ability to understand problems and solve them using code.
 
-## 🛠️ Tools Used
+Through consistent practice, I aim to improve my programming logic, learn how different concepts work, and become more confident in writing clean and understandable programs.
 
-* C
-* Visual Studio Code
-* GCC
-* Git & GitHub
-
-I will continue updating this repository as I learn new concepts and complete more coursework.
+This repository is a record of my learning journey — from my first C programs to more challenging problems as I continue to learn, practice, and improve.
