@@ -1,41 +1,55 @@
-# Structural Programming — C
+Structured Programming — C
 
-Author:Kazi Mashiyat Jannth
-Year: First Year 
-# C Programming Practice
+Author: Kazi Mashiyat Jannath
+Language: C
+Year: First Year
 
-## 📖 About
+📖 About
 
-This repository is a collection of my C programming practices, exercises, and experiments as I learn the fundamentals of C programming through W3Schools.
+This repository contains my C programming practice and exercises completed while learning the fundamentals of structured programming.
 
-Here, I practice different programming concepts by writing and testing simple C programs. The purpose of this repository is to understand the basics of programming, improve my logical thinking, and develop better problem-solving skills through regular practice.
+The programs are mainly based on concepts learned from W3Schools, along with additional practice to improve programming logic, problem-solving skills, and understanding of C.
 
-The programs in this repository represent my learning progress, starting from basic syntax and gradually moving towards concepts such as arrays, functions, recursion, pointers, and structures.
+The repository represents my learning progress, starting from basic C syntax and gradually moving toward more advanced concepts.
 
-## 📚 Topics
+📚 Topics Covered
 
-Throughout this learning journey, I am exploring different concepts of C programming, including:
-
-- C syntax and program structure
-- Variables and data types
-- Input and output
-- Operators and expressions
-- Conditional statements
-- Loops
+- C Syntax and Program Structure
+- Variables and Data Types
+- Input and Output
+- Arithmetic and Other Operators
+- Conditional Statements ("if-else")
+- Loops ("for", "while")
+- "break" and "continue"
 - Arrays
 - Strings
 - Functions
 - Recursion
 - Pointers
 - Structures
-- Basic problem-solving
+- Enumeration ("enum")
+- Boolean Values
+- Data Conversion
+- Memory
+- Error Handling
+- Basic Problem Solving
 
-The repository will continue to grow as I learn and practice new concepts and solve more programming exercises.
+📂 Repository Structure
 
-## 🎯 My Goal
+Each topic is organized into separate folders containing related C programs and practice exercises.
 
-My goal is to build a strong foundation in C programming and develop the ability to understand problems and solve them using code.
+The repository will be updated regularly as new concepts and programming problems are learned and practiced.
 
-Through consistent practice, I aim to improve my programming logic, learn how different concepts work, and become more confident in writing clean and understandable programs.
+🎯 Learning Goals
 
-This repository is a record of my learning journey — from my first C programs to more challenging problems as I continue to learn, practice, and improve.
+- Build a strong foundation in C programming
+- Improve logical and problem-solving skills
+- Understand how different C concepts work
+- Practice writing clear and structured programs
+- Develop confidence in solving programming problems
+
+🚀 Learning Journey
+
+This repository is a record of my progress in C programming — from basic programs to more challenging concepts involving functions, recursion, pointers, arrays, strings, and structures.
+
+More programs and topics will be added as I continue learning and practicing.
