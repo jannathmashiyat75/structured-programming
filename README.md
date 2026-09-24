@@ -1,74 +1,46 @@
-C Programming
-A beginner-friendly repository for learning and practicing C programming.
-The examples in this repository follow the concepts covered in the W3Schools C tutorial, starting from the basics and progressing up to loops.
+# Structural Programming — C
 
-📚 Topics Covered
-The repository currently covers:
+Author:Kazi Mashiyat Jannth
 
-Introduction to C
+Year: First Year 
 
-Basic C syntax
+## ⌨️ About
 
-Comments
+This repository contains my coursework, assignments, and practice programs for Structural Programming.
 
-Variables
+I am using this repository to learn the fundamentals of C programming, improve my problem-solving skills, and keep track of my progress throughout the course.
 
-Constants
+## 🧩 Topics Covered
 
-Data types
+* Variables and data types
+* Input and output
+* Conditional statements
+* Loops and nested loops
+* Functions
+* Arrays and strings
+* Pointers
+* Structures
+* Recursion
+* Basic problem-solving
 
-Format specifiers
+## 📂 Repository Contents
 
-Characters and strings
+The repository includes programs and exercises related to different topics covered in the course, along with assignments and practice problems.
 
-User input
+## 🌱 What I Am Learning
 
-Operators
+This course is helping me improve my:
 
-Arithmetic operators
+* Logical thinking
+* Programming fundamentals
+* Debugging skills
+* Ability to write structured code
 
-Assignment operators
+## 🛠️ Tools Used
 
-Comparison operators
+* C
+* Visual Studio Code
+* GCC
+* Git & GitHub
 
-Logical operators
-
-Bitwise operators
-
-Conditional statements
-
-if
-
-else
-
-else if
-
-switch
-
-Loops
-
-while
-
-do...while
-
-for
-
-Nested loops
-
-📁 Repository Structure
-The source files are organized according to the concepts being learned. Each program demonstrates a specific C programming concept and can be compiled and executed independently.
-🎯 Purpose
-This repository is mainly for learning, practicing, and revising C programming fundamentals.
-
-🚧 Progress
- C basics
-
- Variables and data types
-
- Operators
-
- User input
-
- Conditional statements
-
- Loops
+I will continue updating this repository as I learn new concepts and complete more coursework.
