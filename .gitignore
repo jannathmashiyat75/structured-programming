@@ -2,3 +2,4 @@
 *.bin
 *.o
 .cph/
+Arithmetic operators/hello.c
